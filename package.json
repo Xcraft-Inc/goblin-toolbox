@@ -14,7 +14,6 @@
     }
   },
   "dependencies": {
-    "bignumber.js": "^8.1.1",
     "goblin-nabu": "^1.0.0",
     "xcraft-core-converters": "^3.0.0",
     "xcraft-core-goblin": "^4.0.1",
